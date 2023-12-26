@@ -5,11 +5,7 @@ import presentation from "@/data/presentation";
 const pathname = removeTrailingSlash(Astro.url.pathname);
 ---
 
-<header class="z-40 flex w-full flex-col gap-2 md:flex-row md:justify-between">
-  <a href={`mailto:${presentation.mail}`} class="hover:text-neutral-100"
-    >{presentation.mail}</a
-  >
-
+<header class="z-40 flex w-full flex-row justify-between gap-2 md:gap-2">
   <nav role="navigation">
     <ul role="list" class="flex flex-row gap-2">
       <li>
@@ -18,7 +14,7 @@ const pathname = removeTrailingSlash(Astro.url.pathname);
           class:list={{
             ["hover:text-neutral-100"]: true,
             ["text-neutral-100"]: pathname === "/",
-          }}>Home</a
+          }}>ホーム</a
         >
       </li>
       <li>/</li>
@@ -28,9 +24,13 @@ const pathname = removeTrailingSlash(Astro.url.pathname);
           class:list={{
             ["hover:text-neutral-100"]: true,
             ["text-neutral-100"]: pathname === "/posts",
-          }}>Posts</a
+          }}>投稿</a
         >
       </li>
     </ul>
   </nav>
+
+  <a href="https://42tokyo.jp" target="_blank" class="hover:text-neutral-100">
+    <img src={presentation.image} alt="42Tokyo" />
+  </a>
 </header>

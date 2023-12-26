@@ -4,7 +4,7 @@ type Social = {
 };
 
 type Presentation = {
-  mail: string;
+  image: string;
   title: string;
   description: string;
   socials: Social[];
@@ -12,23 +12,23 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  image: "/42tokyo.svg",
+  title: "Hi, We are アクアクララ盛り上げ隊 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "私たちは、毎月*50本*の12Lボトルを無償でご提供いただいてるアクアクララさんに感謝するため、2ヶ月に1回、感謝の正拳突きを行うことにしました。",
   socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://x.com/42_tokyo",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "Project AquaClara",
+      link: "https://clara.cosmicdust.io",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/tmyuu/project-aquaclara",
     },
   ],
 };
