@@ -49,7 +49,7 @@ isPublish: false
 ©2023 一般社団法人 42 Tokyo All Rights Reserved
 
 ## 答え合わせ2
-To be continued..
+comming soon..
 
 <!--![壁紙2_答え]
 
@@ -79,7 +79,7 @@ To be continued..
 ©2023 一般社団法人 42 Tokyo All Rights Reserved-->
 
 ## 答え合わせ3
-To be continued..
+comming soon..
 
 <!--![壁紙3_答え]
 
