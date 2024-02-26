@@ -9,7 +9,7 @@ const projects: Project[] = [
   {
     title: "ディスプレイハック",
     techs: ["42Tokyoに設置されたiMacの壁紙をハックしました"],
-    link: "https://x.com/42_tokyo/status/1699709089889104270?s=20",
+    link: "https://x.com/42_tokyo/status/1762054996487815247?s=20",
   },
   {
     title: "イベント / ハッカソン",

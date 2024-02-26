@@ -1,9 +1,9 @@
 ---
 title: "間違い探し"
-publishedAt: 2024-01-01
+publishedAt: 2024-01-23
 description: "アクアクララさんの取り組みを紹介する内容の壁紙を作成しました。"
 slug: "displayhack"
-isPublish: false
+isPublish: true
 ---
 
 <details>
@@ -48,10 +48,10 @@ isPublish: false
 ![壁紙1]
 ©2023 一般社団法人 42 Tokyo All Rights Reserved
 
-## 答え合わせ2
+<!--! ## 答え合わせ2
 comming soon..
 
-<!--![壁紙2_答え]
+[壁紙2_答え]
 
 1. ### 1. 
     
@@ -76,12 +76,12 @@ comming soon..
 
 使用した壁紙は以下に掲載いたします。（5120 x 2880 px）
 ![壁紙2]
-©2023 一般社団法人 42 Tokyo All Rights Reserved-->
+©2023 一般社団法人 42 Tokyo All Rights Reserved
 
 ## 答え合わせ3
 comming soon..
 
-<!--![壁紙3_答え]
+[壁紙3_答え]
 
 1. ### 1. 
     
