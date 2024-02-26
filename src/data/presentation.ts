@@ -28,7 +28,7 @@ const presentation: Presentation = {
     },
     {
       label: "Github",
-      link: "https://github.com/tmyuu/project-aquaclara",
+      link: "https://github.com/tmyuu/project-aquaclara/tree/tmyuu",
     },
   ],
 };
