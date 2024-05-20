@@ -2,7 +2,7 @@
 title: "第3回 アクアクララプロジェクト MTG"
 publishedAt: 2023-12-21
 description: "前回のMTGで議題に上った「スタッフへのお願い」に対して、返答がありました。結論としては42Tokyoからは金銭的な支援の期待はできません。また、アクアクララさんの負担にならないような企画が要求されています。"
-slug: "mtg-report-03"
+slug: "mtg_report_03"
 isPublish: true
 ---
 

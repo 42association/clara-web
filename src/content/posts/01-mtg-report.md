@@ -2,7 +2,7 @@
 title: "第1回 アクアクララプロジェクト MTG"
 publishedAt: 2023-11-03
 description: "スタッフから「アクアクララを盛り上げ隊」の立案と先行事例の紹介を受けました。本プロジェクトへの参加ルールとして、「学生主導」かつ「2ヶ月に1度の定期活動」が要求されています。"
-slug: "mtg-report-01"
+slug: "mtg_report_01"
 isPublish: true
 ---
 
