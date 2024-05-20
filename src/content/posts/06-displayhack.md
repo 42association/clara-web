@@ -1,6 +1,6 @@
 ---
 title: "I want YOU for aquaclara ambassador"
-publishedAt: 2024-01-23
+publishedAt: 2024-05-20
 description: "アクアクララアンバサダーとしてプロジェクトに参加しませんか？ウォーターサーバーのIoT化を通じて、便利でスマートなキャンパスライフを実現しましょう！"
 slug: "i_want_you"
 isPublish: true
