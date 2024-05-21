@@ -16,7 +16,7 @@ isPublish: true
 
 ## アンバサダー求む
 
-@ymatsui, @kamitsui, @ryozunoへご連絡ください。
+[#project-aqua-clara](https://discord.com/channels/691903146909237289/1165912809977167963/1242386201848315994) までご連絡ください。
 
 **適正チェックリスト**
 
